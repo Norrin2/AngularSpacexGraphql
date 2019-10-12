@@ -1035,6 +1035,7 @@ export const LaunchDetailsDocument = gql`
     links {
       flickr_images
       mission_patch
+      video_link
     }
   }
 }

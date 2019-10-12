@@ -5,3 +5,12 @@
   grid-template-columns: repeat(auto-fill, 300px);
   justify-content: center;
 }
+
+.video_link {
+  display: inherit;
+  margin-left: auto;
+  margin-right: auto;
+  width: 125px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
